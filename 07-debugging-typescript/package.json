@@ -1,0 +1,15 @@
+{
+  "name": "07-debugging-typescript",
+  "version": "1.0.0",
+  "description": "As we've gone through in the previous sections, TypeScript doesn't run natively as TypeScript, but compiles to JavaScript. Because of this we cannot debug TypeScript directly, but need to setup the debugger to transpile code into JavaScript and map the lines of code from JS to the TypeScript files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  }
+}
