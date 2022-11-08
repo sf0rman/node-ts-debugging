@@ -1,14 +1,16 @@
 # Node TypeScript Setup and debugging
 
-This project is setup to teach how to setup a node project with typescript.
+This project is setup to teach how to setup a node project with typescript and use the debugger in VSCode
+
+- 01 Node without package.json
+- 02 Setting up `package.json` and creating scripts
+- 03 installing dependencies and the `package-lock.json` file.
+- 04 quick difference between `npx` and `npm` and running a `typescript` file
+- 05 `tsconfig.json` for typescript
+- 06 debugging in JavaScript and `.vscode` folder and it's `launch.json`
+- 07 setting up debugger for TypeScript.
 
 Aditionally we may cover:
-- How NPM uses `package.json` and the difference between commonjs and modules.
-- The difference between `dependencies`, `devDependencies` and `peerDependencies`
-- How to setup scripts in your `package.json` file
-- What `package-lock.json` is used for
-- What is `tsconfig.json` and how to use that
-- VSCode's `.vscode` folder and it's `launch.json`
 - (bonus) setting up other packages like `nodemon`, `vitest`, `eslint` and `prettier`
 
 ## Assignments
